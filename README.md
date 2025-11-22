@@ -200,8 +200,6 @@ cat */subs.txt | sort -u > all_subs.txt
 
 ## 👥 Contributors
 
-Thanks to these awesome people:
-
 <a href="https://github.com/Md-Yousuf-Hussain">
   <img src="https://avatars.githubusercontent.com/Md-Yousuf-Hussain" width="60" />
 </a>
