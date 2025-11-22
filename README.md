@@ -49,11 +49,6 @@ curl
 jq
 ```
 
-Install on Debian/Ubuntu/Kali:
-
-```bash
-sudo apt install -y curl jq
-```
 
 ---
 
@@ -65,7 +60,6 @@ Create a file named `domains.txt` (or any file of your choice):
 example.com
 hackerone.com
 bugcrowd.com
-# comments and empty lines are ignored
 ```
 
 ---
