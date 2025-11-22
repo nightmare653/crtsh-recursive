@@ -170,26 +170,6 @@ ae.example.com
 
 ---
 
-## 🛡 Ethical Usage Notice
-
-This tool is intended for:
-
-✅ penetration testers
-✅ bug bounty researchers
-✅ asset inventory teams
-✅ defensive reconnaissance
-
-**Do not use against systems without authorization.**
-
----
-
-## 🧪 Next Steps / Recommended Pipeline Integration
-
-After collecting:
-
-```bash
-cat */subs.txt | sort -u > all_subs.txt
-```
 
 
 ## 👥 Contributors
